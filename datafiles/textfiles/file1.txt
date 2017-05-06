@@ -1,0 +1,62 @@
+{java.runtime.name=Java(TM) SE Runtime Environment,
+ sun.boot.library.path=C:\Program Files\Java\jdk1.8.0_121\jre\bin,
+  java.vm.version=25.121-b13,
+   java.vm.vendor=Oracle Corporation,
+    java.vendor.url=http://java.oracle.com/, path.separator=;, 
+    java.vm.name=Java HotSpot(TM) 64-Bit Server VM,
+     file.encoding.pkg=sun.io,
+      user.country=US,
+       user.script=,
+        sun.java.launcher=SUN_STANDARD, 
+        sun.os.patch.level=, 
+        java.vm.specification.name=Java Virtual Machine Specification, 
+        user.dir=C:\Users\snehasis_2\workspace2\Sample, 
+        java.runtime.version=1.8.0_121-b13, 
+        java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, 
+        java.endorsed.dirs=C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed, 
+        os.arch=amd64, java.io.tmpdir=C:\Users\SNEHAS~1\AppData\Local\Temp\, 
+        line.separator=
+, 
+java.vm.specification.vendor=Oracle Corporation, 
+user.variant=, os.name=Windows 8.1,
+ sun.jnu.encoding=Cp1252, 
+ java.library.path=C:\Program Files\Java\jdk1.8.0_121\bin;
+ C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;
+ C:/Program Files/Java/jre1.8.0_121/bin/server;
+ C:/Program Files/Java/jre1.8.0_121/bin;
+ C:/Program Files/Java/jre1.8.0_121/lib/amd64;
+ C:\ProgramData\Oracle\Java\javapath;
+ c:\Program Files (x86)\AMD APP\bin\x86_64;
+ c:\Program Files (x86)\AMD APP\bin\x86;c
+ :\Program Files (x86)\Intel\iCLS Client\;
+ c:\Program Files\Intel\iCLS Client\;
+ C:\WINDOWS\system32;
+ C:\WINDOWS;C:\WINDOWS\System32\Wbem;
+ C:\WINDOWS\System32\WindowsPowerShell\v1.0\;
+ C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;
+ C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;
+ C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;
+ C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;
+ c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;
+ C:\Program Files (x86)\Windows Live\Shared;
+ C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;
+ C:\Program Files\Intel\WiFi\bin\;
+ C:\Program Files\Common Files\Intel\WirelessCommon\;
+ C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\nodejs\;
+ C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;
+ C:\Program Files\Cloud Foundry;
+ C:\Program Files (x86)\scala\bin;
+ C:\home\snehasis\sdks\gradle-3.5-bin\gradle-3.5\bin;
+ C:\home\snehasis\sdks\apache-maven-3.5.0\bin;
+ C:\Program Files\Git\cmd;
+ C:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.9\sbin;
+ C:\Users\snehasis_2\AppData\Roaming\npm;
+ C:\Program Files (x86)\Microsoft VS Code\bin;
+ C:\home\snehasis\sdks\gradle-3.5-bin\gradle-3.5\bin;
+ C:\home\snehasis\sdks\apache-maven-3.5.0\bin;
+ C:\Program Files\Docker Toolbox;
+ C:\home\snehasis\sdks\eclipse-jee-neon-3-win32-x86_64\eclipse;;.,
+  java.specification.name=Java Platform API Specification, 
+  java.class.version=52.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers,
+   os.version=6.3, 
+   user.home=C:\Users\snehasis_2, user.timezone=, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=Cp1252, java.specification.version=1.8, java.class.path=C:\Users\snehasis_2\workspace2\Sample\bin, user.name=snehasis_2, java.vm.specification.version=1.8, sun.java.command=com.cts.sample.IOSample1, java.home=C:\Program Files\Java\jdk1.8.0_121\jre, sun.arch.data.model=64, user.language=en, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.8.0_121, java.ext.dirs=C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}
