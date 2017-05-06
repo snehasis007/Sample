@@ -32,7 +32,7 @@
 				  <archive>
 					<manifest>
 						<!-- Jar file entry point -->
-						<mainClass>com.cts.sample.IOSample1</mainClass>
+						<mainClass>com.cts.sample.IOTest1</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>
