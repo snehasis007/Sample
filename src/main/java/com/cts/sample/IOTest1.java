@@ -21,6 +21,7 @@ public class IOTest1 {
 		while((s=br.readLine())!=null){
 			System.out.println(s);
 		}
+		br.close();
 	}
 	
 	public static void main(String [] args){
