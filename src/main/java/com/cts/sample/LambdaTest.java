@@ -2,6 +2,7 @@ package com.cts.sample;
 
 public class LambdaTest {
 	
+	@FunctionalInterface
 	public interface Callback{
 		public String getCallback(String data);
 	}
