@@ -4,6 +4,7 @@ public class LambdaTest {
 	
 	@FunctionalInterface
 	public interface Callback{
+		String VAL="Callback";
 		public String getCallback(String data);
 	}
 	
@@ -14,7 +15,7 @@ public class LambdaTest {
 	public static void main(String [] args){
 		LambdaTest t=new LambdaTest();
 		String s="hello";
-		System.out.println(t.test(s1 -> s1+ ":::test", s));
+		System.out.println(t.test(s1 -> s1+ ":::test"+Callback.VAL, s));
 	}
 
 }
