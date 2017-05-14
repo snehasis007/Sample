@@ -9,6 +9,14 @@
     <properties>
 		<jdk.version>1.8</jdk.version>
 	</properties>
+	
+	<dependencies>
+	  	<dependency>
+	    <groupId>com.h2database</groupId>
+	    <artifactId>h2</artifactId>
+	    <version>1.4.195</version>
+		</dependency>
+	</dependencies>
     
     <build>
     <plugins>
@@ -38,5 +46,8 @@
 				</configuration>
 			</plugin>
   </plugins>
+ 
 </build>
+
+ 	
 </project>
